@@ -1,0 +1,25 @@
+{
+  "name": "novel",
+  "version": "1.0.0",
+  "description": "《雪山飞狐》1\r 《连城诀》2\r 《天龙八部》3\r 《射雕英雄传》4",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yinmeili/novel.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yinmeili/novel/issues"
+  },
+  "homepage": "https://github.com/yinmeili/novel#readme",
+  "devDependencies":{
+    "gitbook-cli": "^2.3.2"
+  }
+ 
+}
+
